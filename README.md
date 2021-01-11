@@ -56,16 +56,17 @@
    <br><br><br>
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>Name:<code>CHAOXING_USERNAME</code><br>
-	Value：<code>填写你的超星账户，最好为11位的手机号</code><br>
+	Value：<code>18855250205</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>CHAOXING_PASSWORD</code><br>
-     Value：<code>填写你的超星密码</code><br>
+     Value：<code>yq123123123</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>CHAOXING_SCHOOL</code><br>
-     Value：<code>填写你的schoolid</code>#如果CHAOXING_USERNAME中的Value填写的是手机号，则本处填写'None'<br>
+     Value：<code>NOneschoolid</code>#如果CHAOXI
+     '<br>
      ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>CHAOXING_SERVEROR</code><br>
-     Value：<code>填写True或者False</code>#True代表使用微信提醒，False代表不使用<br>
+     Value：<code>填写True<br>
      ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>CHAOXING_SERVER</code><br>
      Value：<code>填写你的server酱SCKEY码，以SCU开头</code>#申请地址http://sc.ftqq.com/3.version  <br>
